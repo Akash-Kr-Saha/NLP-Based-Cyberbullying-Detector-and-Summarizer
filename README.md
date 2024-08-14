@@ -1,4 +1,4 @@
-# Cyberbullying_Recognizer_and_Summarizer
+# NLP-Based Cyberbullying Detector and Summarizer
 
 ## Software And Tools Requirements
 
